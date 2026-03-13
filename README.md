@@ -16,7 +16,7 @@ This project demonstrates a simplified version of a loan underwriting and matchi
 * **Frontend:** TypeScript React, Tailwind CSS
 * **Database:** PostgreSQL
 * **ORM / Database Toolkit:** SQLAlchemy + Pydantic
-* **Workflow Orchestration: Python + Hatchet
+* **Workflow Orchestration**: Python + Hatchet
 * **Package Management:** pip / npm
 * **Version Control:** Git + GitHub
 
